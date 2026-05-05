@@ -1,0 +1,15 @@
+{
+  "name": "testing-orangehr",
+  "version": "1.0.0",
+  "description": "Project cypress orangeHR",
+  "license": "ISC",
+  "author": "Hawari",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.14.2"
+  }
+}
